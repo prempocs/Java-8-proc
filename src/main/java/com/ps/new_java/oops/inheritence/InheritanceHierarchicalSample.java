@@ -20,7 +20,7 @@ class HierarchicalInheritenceClassTwo implements InterfaceOne{
 	
 }
 
-public class HierarchicalInheritenceSample {
+public class InheritanceHierarchicalSample {
 
 	public static void main(String[] args) {
 		InterfaceOne io = new HierarchicalInheritenceClassOne();

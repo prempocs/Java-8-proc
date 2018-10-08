@@ -1,9 +1,9 @@
 package com.ps.new_java.oops.inheritence;
 
-public class InheritenceSample {
+public class InheritanceSample {
 
 	public static void main(String[] args) {
-		SingleInheritenceSample oneToOneSample = new SingleInheritenceSample();
+		InheritanceSingleSample oneToOneSample = new InheritanceSingleSample();
 		oneToOneSample.interfaceOneMethodOne();
 		oneToOneSample.singleInheritenceSampleOne();
 

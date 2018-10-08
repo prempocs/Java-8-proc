@@ -1,6 +1,6 @@
 package com.ps.new_java.oops.inheritence;
 
-public class SingleInheritenceSample  implements InterfaceOne{
+public class InheritanceSingleSample  implements InterfaceOne{
 	public void singleInheritenceSampleOne() {
 		System.out.println("singleInheritenceSample called!!!");
 	}
