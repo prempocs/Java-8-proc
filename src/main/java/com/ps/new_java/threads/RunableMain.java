@@ -1,4 +1,4 @@
-package com.ps.threads;
+package com.ps.new_java.threads;
 
 import java.util.concurrent.TimeUnit;
 

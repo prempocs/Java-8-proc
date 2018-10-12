@@ -1,4 +1,4 @@
-package com.ps.threads;
+package com.ps.new_java.threads;
 
 public class MyRunnable implements Runnable {
 
